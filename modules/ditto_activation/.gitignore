@@ -1,0 +1,22 @@
+41000_data
+48000_data
+raw_data
+*.npy
+*.wav
+Hospital noise original/
+synthetic_data/
+mp3_data/
+common_voice_dataset/
+background_data/
+reinforced_data/
+elvenlabs_samples/
+
+# environment
+.vscode/
+*.env
+__pycache__
+
+# Mac
+*.DS_Store
+
+ditto.db

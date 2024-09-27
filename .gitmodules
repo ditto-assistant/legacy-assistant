@@ -1,0 +1,6 @@
+[submodule "modules/gesture-recognition"]
+	path = modules/gesture-recognition
+	url = https://github.com/omarzanji/gesture-recognition.git
+[submodule "modules/ditto_activation"]
+	path = modules/ditto_activation
+	url = https://github.com/omarzanji/ditto_activation.git
